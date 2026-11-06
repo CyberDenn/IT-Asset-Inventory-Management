@@ -36,13 +36,11 @@ IT-Asset-Inventory.xlsx
 This project uses fictional employee names, device information, serial numbers, asset tags, and warranty dates for demonstration purposes. No real company or employee information is included.
 
 ## Excel Formulas
-**Expired Warranty:**
+**Expired Warranty:**      '=AND(J2<TODAY(),J2<>"")'
 
-'=AND(J2<TODAY(),J2<>"")'
 Identifies warranties that have already expired while ignoring blank cells.
-**Upcoming Warranty (Next 30 Days):**
+**Upcoming Warranty (Next 30 Days):**           '=AND(J2>=TODAY(),J2<=TODAY()+30)'
 
-'=AND(J2>=TODAY(),J2<=TODAY()+30)'
 Identifies warranties that will expire within the next 30 days.
 
 ## Skills Demonstrated
