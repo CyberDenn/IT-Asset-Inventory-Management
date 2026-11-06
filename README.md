@@ -54,11 +54,11 @@ This project uses fictional employee names, device information, serial numbers, 
 
 ### Project Screenshots
 
--Inventory Overview
+Inventory Overview
 ![Inventory Overview 1](Screenshots/Inventory%20Overview%201.png)
 ![Inventory Overview 2](Screenshots/Inventory%20Overview%202.png)
 
--Dropdown Menus
+Dropdown Menus
 ![Dropdowns](Screenshots/Dropdowns.png)
 
 
