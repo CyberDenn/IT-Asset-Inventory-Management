@@ -52,7 +52,7 @@ This project uses fictional employee names, device information, serial numbers, 
 - Basic Excel Formulas
 - Endpoint and Help Desk Operations
 
-### Project Screenshots
+## Project Screenshots
 
 Inventory Overview
 ![Inventory Overview 1](Screenshots/Inventory%20Overview%201.png)
