@@ -31,6 +31,18 @@ The completed Excel workbook is included in this repository:
 
 IT-Asset-Inventory.xlsx
 
+
+## Sample Data
+This project uses fictional employee names, device information, serial numbers, asset tags, and warranty dates for demonstration purposes. No real company or employee information is included.
+
+## Excel Formulas
+**Expired Warranty:**
+'=AND(J2<TODAY(),J2<>"")'
+Identifies warranties that have already expired while ignoring blank cells.
+**Upcoming Warranty (Next 30 Days):**
+'=AND(J2>=TODAY(),J2<=TODAY()+30)'
+Identifies warranties that will expire within the next 30 days.
+
 ## Skills Demonstrated
 - IT Asset Management
 - Hardware Inventory Tracking
@@ -38,7 +50,6 @@ IT-Asset-Inventory.xlsx
 - Conditional Formatting
 - Basic Excel Formulas
 - Endpoint and Help Desk Operations
-
 
 ### Project Screenshots
 
