@@ -1,16 +1,16 @@
 # IT-Asset-Inventory-Management
 A hands-on IT asset management project using Microsoft Excel to track company devices, hardware details, assigned users, device status, and warranty expiration dates. Includes dropdown menus, conditional formatting and automated warranty tracking to simulate real-word IT help desk and endpoint management task.
 
-##Overview
-This project simulates how an IT Helpdesk or asset management team keeps an accurate record of company hardware: what each device is, who has it, what condition its in and when its warranty runs out.
+## Overview
+This project simulates how an IT Helpdesk or asset management team keeps an accurate record of company hardware: what each device is, who has it, what condition it's in and when its warranty runs out.
 
-Tools Used
+## Tools Used
 - Microsoft Excel
 - Data Validation
 - Conditional Formatting
 - Excel Formulas
 
-##Features
+## Features
 - **Devices and hardware tracking:** a record for each company device with its hardware details
 - **Assigned user tracking:** tracks the employees responsible for each device
 - **Device status:** dropdown menus to identify each device's current status
