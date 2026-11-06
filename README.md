@@ -18,7 +18,7 @@ This project simulates how an IT Helpdesk or asset management team keeps an accu
 - **Conditional formatting:** Color-coded highlighting makes important device information easy to identify
 - **Automated warranty tracking:** Uses formulas to identify expired and upcoming warranty expirations
 
-- ## How It Works
+## How It Works
 - **Dropdowns:** restrict entries to approved values using data validation
 - **Conditional formatting:** highlights devices statuses and warranty dates using color-coded rules
 - **Warranty tracking:** uses Excel formulas to compare warranty expiration dates against today's date and identify expired warranties and warranties expiring soon
