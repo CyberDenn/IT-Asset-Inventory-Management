@@ -40,8 +40,7 @@ This project uses fictional employee names, device information, serial numbers, 
 Identifies warranties that have already expired while ignoring blank cells.
 
 
-**Upcoming Warranty (Next 30 Days):**         '=AND(J2>=TODAY(),J2<=TODAY()+30)'
-
+**Upcoming Warranty (Next 30 Days):**        '=AND(J2>=TODAY(),J2<=TODAY()+30)'
 Identifies warranties that will expire within the next 30 days.
 
 ## Skills Demonstrated
