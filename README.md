@@ -50,8 +50,3 @@ IT-Asset-Inventory.xlsx
 ![Dropdowns](Screenshots/Dropdowns.png)
 
 
-
-
-- Add a summary dashboard (device counts by status and warranty)
-- Add a check-in/check-out log
-- Recreate the workflow in a ServiceNow-style asset management tool
